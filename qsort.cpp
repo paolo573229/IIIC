@@ -2,7 +2,7 @@
 #include <cmath>
 #include <iomanip>
 
-// bubble sort
+//  sort  
 
 using namespace std;  // permette di usare gli oggetti e le funzioni 
 
